@@ -1,0 +1,64 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  font-family: Trebuchet MS;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.container1 {
+  width: 50%;
+  height: 521px;
+  background-color: rgba(120, 120, 120, 0.4);
+}
+.text {
+  font-family: Impact;
+}
+.container2 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(120, 120, 120, 0.4);
+}
+.text1 {
+  display: block;
+  font-family: Arial;
+}
+.image {
+  width: 314px;
+  height: 221px;
+}
+.container3 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(120, 120, 120, 0.4);
+}
+.container4 {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(120, 120, 120, 0.4);
+}
+.container5 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(120, 120, 120, 0.4);
+}
